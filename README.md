@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Bogach</h1>
-<h3 align="center">Hi,I'm Nick and I am a 20 year old self-taught backend developer. When I'm not coding, you can find me hiking, playing basketball, or gaming. In the future, I hope to create a family and continue to develop my skills in the IT field. I am always looking for new challenges and opportunities to learn and grow as a developer.</h3>
+<h3 align="center">Hi,I'm Nick and I am a 20 year old self-taught backend developer. When I'm not coding, you can find me hiking, playing basketball, or gaming. In the future, I'm going to continue to develop my skills in the IT field. I am always looking for new challenges and opportunities to learn and grow as a developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rozi5500" alt="rozi5500" /></a> </p>
 
